@@ -1,0 +1,110 @@
+{
+  "description": {
+    "company_information": "Det är en modern butik...",
+    "text": "Du kan hela färskvarulinjen..."
+  },
+  "detected_language": "sv",
+  "duration": {
+    "label": "TILLSVIDARE"
+  },
+  "employer": {
+    "name": "Personalkompetens i Sverige AB",
+    "workplace": "Personalkompetens i Sverige AB"
+  },
+  "employment_type": [
+    {
+      "label": "VANLIG_ANSTALLNING",
+      "original_value": true
+    }
+  ],
+  "headline": "Biträdande färskvaruchef till dagligvaruhandeln",
+  "keywords": {
+    "extracted": {
+      "occupation": [
+        "dagligvaror",
+        "marknadsföring",
+        "försäljning",
+        "medarbetare",
+        "inköp",
+        "butikssäljare"
+      ],
+      "skill": [],
+      "location": [
+        "se",
+        "stockholm",
+        "stockholms län"
+      ],
+      "employer": [
+        "personalkompetens i sverige"
+      ]
+    },
+    "enriched": {
+      "occupation": [
+        "färskvaruchef",
+        "butikssäljare"
+      ],
+      "skill": [
+        "sortiment",
+        "inköp",
+        "ekonomi"
+      ],
+      "trait": [],
+      "location": [
+        "stockholms län",
+        "stockholm"
+      ],
+      "compound": [
+        "färskvaruchef",
+        "butikssäljare",
+        "sortiment",
+        "inköp",
+        "ekonomi",
+        "stockholms län",
+        "stockholm"
+      ]
+    }
+  },
+  "larling": false,
+  "occupation": [
+    {
+      "concept_id": "pBhS_6fg_727",
+      "label": "Butikssäljare/Medarbetare, dagligvaror",
+      "legacy_ams_taxonomy_id": "2284",
+      "original_value": true
+    }
+  ],
+  "occupation_field": [
+    {
+      "concept_id": "RPTn_bxG_ExZ",
+      "label": "Försäljning, inköp, marknadsföring",
+      "legacy_ams_taxonomy_id": "5"
+    }
+  ],
+  "occupation_group": [
+    {
+      "concept_id": "s1Qk_o98_2o1",
+      "label": "Butikssäljare, dagligvaror",
+      "legacy_ams_taxonomy_id": "5222"
+    }
+  ],
+  "publication_date": "2019-01-02T00:00:00",
+  "remote_work": false,
+  "salary_type": {
+    "label": "FAST_LON"
+  },
+  "trainee": false,
+  "working_hours_type": {
+    "label": "HELTID"
+  },
+  "workplace_address": {
+    "city": "STOCKHOLM",
+    "country": "SE",
+    "municipality": "Stockholm",
+    "municipality_code": "0180",
+    "municipality_concept_id": "AvNB_uwa_6n6",
+    "postcode": "11527",
+    "region": "Stockholms län",
+    "region_code": "01",
+    "street_address": "OXENSTIERNSGATAN 25"
+  }
+}

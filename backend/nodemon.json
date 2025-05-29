@@ -1,0 +1,12 @@
+{
+    "script": "app.js",
+    "watch": [".", "app.js"], 
+    "ignore": [
+      "node_modules",
+      "package-lock.json",
+      ".git",
+      "*.bat"
+    ],
+    "ext": "js,json",
+    "delay": "3"  
+  }

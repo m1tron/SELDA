@@ -1,0 +1,26 @@
+{
+  "description_text": "Du kan hela färskvarulinjen...",
+  "description_company_information": "Ica är en ledande aktör i dagligvaruhandeln...",
+  "detected_language": "sv",
+  "duration_label": "TILLSVIDARE",
+  "employer_name": "Personalkompetens i Sverige AB",
+  "employment_label": "VANLIG_ANSTALLNING",
+  "headline": "Biträdande färskvaruchef till dagligvaruhandeln",
+  "keywords_skill": [
+        "sortiment",
+        "inköp",
+        "ekonomi"
+    ],
+  "larling": false,
+  "occupation_label": "Butikssäljare/Medarbetare, dagligvaror",
+  "occupation_field_label": "Försäljning, inköp, marknadsföring",
+  "occupation_group_label": "Butikssäljare, dagligvaror",
+  "publication_date": "2019-01-02T00:00:00",
+  "remote_work": false,
+  "salary_type_label": "FAST_LON",
+  "trainee": false,
+  "working_hours_type_label": "HELTID",
+  "workplace_address_municipality": "Stockholm",
+  "workplace_address_country": "SE",
+  "workplace_address_region": "Stockholms län"
+}

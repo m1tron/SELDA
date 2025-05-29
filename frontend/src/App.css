@@ -1,0 +1,117 @@
+
+
+body {
+  background-color: rgb(0, 0, 0);
+}
+
+#root {
+  text-align: center;
+  font-size: 15px;
+  width: 100%;
+}
+
+.searchContainer {
+  display: flexbox;
+  margin-top: 20px;
+  margin: auto;
+  padding: .5rem;
+  background-color: #000000;
+  width: fit-content;
+
+}
+
+input {
+  margin-bottom: 8px;
+  margin-top: 8px;
+    padding: 10px;
+  font-size: 15px;
+}
+
+input[type="text"] {
+  box-sizing: border-box;
+  width: 100%;
+}
+
+input[disabled] {
+  border-color: black;
+}
+
+input[type="number"] {
+    box-sizing: border-box;
+}
+
+.searchButtonContainer {
+  display: flex;
+  justify-content: center;
+  margin-top: 5px;
+}
+
+.searchButton {
+  border-color: rgb(26, 92, 125);
+  background-color: rgb(32, 105, 142);
+  margin: 0.3rem;
+}
+
+.searchButtonInv {
+  background-color: rgb(32, 105, 142);
+  color: black;
+  margin: 5px;
+}
+
+.selectedButton {
+  background-color: #00c400;
+  color: black;
+}
+
+.rangeContainer {
+  display: grid;
+  grid-template-columns: min-content auto;
+}
+
+
+.rangeLabel {
+  margin: auto 10px;
+}
+
+.queryInput {
+  border: 2px solid #ccc;
+  border-radius: 10px;
+}
+
+.queryInputLabel {
+  float: left;
+}
+
+.invalid-input {
+  animation: shakeBorder 1s forwards;
+}
+
+
+/* Glowing Gradient Behind */
+.footer-glow {
+  position: absolute;
+  inset: -80px; 
+  bottom: 50%;
+  background: linear-gradient(280deg, rgba(0, 255, 100, 0.5), rgba(0, 150, 255, 0.5));
+  filter: blur(110px); 
+  opacity: 0.6;
+  z-index: 0;
+  pointer-events: none;
+}
+
+.footer {
+    margin-top: 100px;
+}
+
+@keyframes shakeBorder {
+  0% {
+    border-color: red;
+  }
+  50% {
+    border-color: red;
+  }
+  100% {
+    border-color: #ccc;
+  }
+}
+

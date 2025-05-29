@@ -1,0 +1,123 @@
+{
+  "application_contacts": [],
+  "application_deadline": "2019-01-15T23:59:59",
+  "application_details": {},
+  "description": {
+    "company_information": "Det är en modern butik...",
+    "text": "Du kan hela färskvarulinjen..."
+  },
+  "detected_language": "sv",
+  "duration": {
+    "label": "TILLSVIDARE"
+  },
+  "employer": {
+    "name": "Personalkompetens i Sverige AB",
+    "workplace": "Personalkompetens i Sverige AB"
+  },
+  "employment_type": [
+    {
+      "label": "VANLIG_ANSTALLNING",
+      "original_value": true
+    }
+  ],
+  "franchise": false,
+  "headline": "Biträdande färskvaruchef till dagligvaruhandeln",
+  "hire_work_place": false,
+  "id": "6a741f8c596f15e57ab2cb0f4b0555b12b9af216",
+  "keywords": {
+    "extracted": {
+      "occupation": [
+        "dagligvaror",
+        "marknadsföring",
+        "försäljning",
+        "medarbetare",
+        "inköp",
+        "butikssäljare"
+      ],
+      "skill": [],
+      "location": [
+        "se",
+        "stockholm",
+        "stockholms län"
+      ],
+      "employer": [
+        "personalkompetens i sverige"
+      ]
+    },
+    "enriched": {
+      "occupation": [
+        "färskvaruchef",
+        "butikssäljare"
+      ],
+      "skill": [
+        "sortiment",
+        "inköp",
+        "ekonomi"
+      ],
+      "trait": [],
+      "location": [
+        "stockholms län",
+        "stockholm"
+      ],
+      "compound": [
+        "färskvaruchef",
+        "butikssäljare",
+        "sortiment",
+        "inköp",
+        "ekonomi",
+        "stockholms län",
+        "stockholm"
+      ]
+    }
+  },
+  "larling": false,
+  "last_publication_date": "2019-01-15T23:59:59",
+  "must_have": {},
+  "nice_to_have": {},
+  "number_of_vacancies": 1,
+  "occupation": [
+    {
+      "concept_id": "pBhS_6fg_727",
+      "label": "Butikssäljare/Medarbetare, dagligvaror",
+      "legacy_ams_taxonomy_id": "2284",
+      "original_value": true
+    }
+  ],
+  "occupation_field": [
+    {
+      "concept_id": "RPTn_bxG_ExZ",
+      "label": "Försäljning, inköp, marknadsföring",
+      "legacy_ams_taxonomy_id": "5"
+    }
+  ],
+  "occupation_group": [
+    {
+      "concept_id": "s1Qk_o98_2o1",
+      "label": "Butikssäljare, dagligvaror",
+      "legacy_ams_taxonomy_id": "5222"
+    }
+  ],
+  "open_for_all": false,
+  "original_id": 23021662,
+  "publication_date": "2019-01-02T00:00:00",
+  "remote_work": false,
+  "salary_type": {
+    "label": "FAST_LON"
+  },
+  "scope_of_work": {},
+  "trainee": false,
+  "working_hours_type": {
+    "label": "HELTID"
+  },
+  "workplace_address": {
+    "city": "STOCKHOLM",
+    "country": "SE",
+    "municipality": "Stockholm",
+    "municipality_code": "0180",
+    "municipality_concept_id": "AvNB_uwa_6n6",
+    "postcode": "11527",
+    "region": "Stockholms län",
+    "region_code": "01",
+    "street_address": "OXENSTIERNSGATAN 25"
+  }
+}
